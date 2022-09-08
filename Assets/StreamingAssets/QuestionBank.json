@@ -1,0 +1,47 @@
+[
+  {
+    "nombreDificultad": "Super Easy",
+    "preguntas": [
+      {
+        "enunciado": "¿Cuántos dientes tiene un mosquito?",
+        "respuestas": [
+          { "texto": "47" },
+          { "texto": "Ninguno" },
+          { "texto": "6" },
+          { "texto": "32" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "¿Qué animal necesita cerrar los ojos para poder tragar?",
+        "respuestas": [
+          { "texto": "El Elefante" },
+          { "texto": "La serpiente" },
+          { "texto": "El sapo" },
+          { "texto": "El armadillo" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "¿Cuál de estos animales tiene la gestación más larga?",
+        "respuestas": [
+          { "texto": "Salamandra negra alpina" },
+          { "texto": "Murciélago" },
+          { "texto": "Monstruo de Gila" },
+          { "texto": "Gusano de terciopelo" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "Qué raza de perro es la más grande en tamaño?",
+        "respuestas": [
+          { "texto": "Pastor alemán" },
+          { "texto": "Taza de té Chihuahua" },
+          { "texto": "Golden Retriever" },
+          { "texto": "Mastín inglés" }
+        ],
+        "respuestaCorrecta": 3
+      }
+    ]
+  }
+]
