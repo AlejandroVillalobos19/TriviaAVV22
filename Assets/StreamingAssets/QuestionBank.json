@@ -3,44 +3,274 @@
     "nombreDificultad": "Super Easy",
     "preguntas": [
       {
-        "enunciado": "¿Cuántos dientes tiene un mosquito?",
+        "enunciado": "¿Cual es la Capital de Alemania?",
         "respuestas": [
-          { "texto": "47" },
-          { "texto": "Ninguno" },
-          { "texto": "6" },
-          { "texto": "32" }
+          { "texto": "Saint John" },
+          { "texto": "Berlín" },
+          { "texto": "Doha" },
+          { "texto": "Bratislava" }
         ],
         "respuestaCorrecta": 1
       },
       {
-        "enunciado": "¿Qué animal necesita cerrar los ojos para poder tragar?",
+        "enunciado": "¿Cual es la Capital de Ecuador?",
         "respuestas": [
-          { "texto": "El Elefante" },
-          { "texto": "La serpiente" },
-          { "texto": "El sapo" },
-          { "texto": "El armadillo" }
+          { "texto": "Buenos Aires" },
+          { "texto": "Bogotá" },
+          { "texto": "Quito" },
+          { "texto": "Caracas" }
         ],
         "respuestaCorrecta": 2
       },
       {
-        "enunciado": "¿Cuál de estos animales tiene la gestación más larga?",
+        "enunciado": "¿Cual es la Capital de China?",
         "respuestas": [
-          { "texto": "Salamandra negra alpina" },
-          { "texto": "Murciélago" },
-          { "texto": "Monstruo de Gila" },
-          { "texto": "Gusano de terciopelo" }
+          { "texto": "Minsk" },
+          { "texto": "Yaundé" },
+          { "texto": "Ottawa" },
+          { "texto": "Pekín" }
+        ],
+        "respuestaCorrecta": 3
+      },
+      {
+        "enunciado": "¿Cual es la Capital de Cuba?",
+        "respuestas": [
+          { "texto": "San José" },
+          { "texto": "La Habana" },
+          { "texto": "Madridr" },
+          { "texto": "Manila" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "¿Cual es la Capital de Bolivia?",
+        "respuestas": [
+          { "texto": "Sucre" },
+          { "texto": "Bruselas" },
+          { "texto": "Santiago" },
+          { "texto": "Puerto Príncipe" }
+        ],
+        "respuestaCorrecta": 0
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Easy",
+    "preguntas": [
+      {
+        "enunciado": "¿Cual es la Capital de Uzbekistán?",
+        "respuestas": [
+          { "texto": "Taskent" },
+          { "texto": "Hanói" },
+          { "texto": "Yibuti" },
+          { "texto": "Harare" }
         ],
         "respuestaCorrecta": 0
       },
       {
-        "enunciado": "Qué raza de perro es la más grande en tamaño?",
+        "enunciado": "¿Cual es la Capital de Trinidad y Tobago?",
         "respuestas": [
-          { "texto": "Pastor alemán" },
-          { "texto": "Taza de té Chihuahua" },
-          { "texto": "Golden Retriever" },
-          { "texto": "Mastín inglés" }
+          { "texto": "Puerto España" },
+          { "texto": "Funafuti" },
+          { "texto": "Montevideo" },
+          { "texto": "Lomé" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "¿Cual es la Capital de Noruega?",
+        "respuestas": [
+          { "texto": "Wellington" },
+          { "texto": "Oslo" },
+          { "texto": "Melekeok" },
+          { "texto": "Lima" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "¿Cual es la Capital de México?",
+        "respuestas": [
+          { "texto": "Managua" },
+          { "texto": "México" },
+          { "texto": "Abuya" },
+          { "texto": "Rabat" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "¿Cual es la Capital de Irán?",
+        "respuestas": [
+          { "texto": "Honiara" },
+          { "texto": "Teherán" },
+          { "texto": "Nairobi" },
+          { "texto": "Pristina" }
+        ],
+        "respuestaCorrecta": 1
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Medium",
+    "preguntas": [
+      {
+        "enunciado": "¿Cual es la Capital de Estados Unidos?",
+        "respuestas": [
+          { "texto": "Atenas" },
+          { "texto": "Saint George" },
+          { "texto": "París" },
+          { "texto": "Washington D. C." }
         ],
         "respuestaCorrecta": 3
+      },
+      {
+        "enunciado": "¿Cual es la Capital de Dinamarca?",
+        "respuestas": [
+          { "texto": "Copenhague" },
+          { "texto": "Quito" },
+          { "texto": "Yamusukro" },
+          { "texto": "Moroni" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "¿Cual es la Capital de Canadá?",
+        "respuestas": [
+          { "texto": "Praia" },
+          { "texto": "Santiago " },
+          { "texto": "Ottawa " },
+          { "texto": "Brazzaville" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "¿Cual es la Capital de Brasil?",
+        "respuestas": [
+          { "texto": "Sarajevo" },
+          { "texto": "Brasilia" },
+          { "texto": "Gaborone" },
+          { "texto": "Buyumbura" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "¿Cual es la Capital de Francia?",
+        "respuestas": [
+          { "texto": "Atenas" },
+          { "texto": "Suva" },
+          { "texto": "París" },
+          { "texto": "Bisáu" }
+        ],
+        "respuestaCorrecta": 2
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Hard",
+    "preguntas": [
+      {
+        "enunciado": "¿Cual es la Capital de Israel?",
+        "respuestas": [
+          { "texto": "Jerusalén" },
+          { "texto": "Roma" },
+          { "texto": "Kingston" },
+          { "texto": "Nairobi" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "¿Cual es la Capital de Japón?",
+        "respuestas": [
+          { "texto": "Tokio" },
+          { "texto": "Honiara" },
+          { "texto": "Yakarta" },
+          { "texto": "Tarawa" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "¿Cual es la Capital de Madagascar?",
+        "respuestas": [
+          { "texto": "Beirut" },
+          { "texto": "Vilna" },
+          { "texto": "Skopie" },
+          { "texto": "Antananarivo" }
+        ],
+        "respuestaCorrecta": 3
+      },
+      {
+        "enunciado": "¿Cual es la Capital de España?",
+        "respuestas": [
+          { "texto": "Tallin" },
+          { "texto": "Asmara" },
+          { "texto": "Madrid" },
+          { "texto": "Liubliana" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "¿Cual es la Capital de Grecia?",
+        "respuestas": [
+          { "texto": "Atenas" },
+          { "texto": "Malabo" },
+          { "texto": "Conakri" },
+          { "texto": "Accra" }
+        ],
+        "respuestaCorrecta": 0
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Extra Hard",
+    "preguntas": [
+      {
+        "enunciado": "¿Cual es la Capital de Dominica?",
+        "respuestas": [
+          { "texto": "Asmara" },
+          { "texto": "Roseau" },
+          { "texto": "Manila" },
+          { "texto": "Helsinki" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "¿Cual es la Capital de Guatemala?",
+        "respuestas": [
+          { "texto": "Guatemala" },
+          { "texto": "Puerto Príncipe" },
+          { "texto": "Buenos Aires" },
+          { "texto": "Santiago" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "¿Cual es la Capital de Filipinas?",
+        "respuestas": [
+          { "texto": "Manila" },
+          { "texto": "Suva" },
+          { "texto": "Tiflis" },
+          { "texto": "Bisáu" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "¿Cual es la Capital de Irlanda?",
+        "respuestas": [
+          { "texto": "Dublín" },
+          { "texto": "Majuro" },
+          { "texto": "Jerusalén" },
+          { "texto": "Malabo" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "¿Cual es la Capital de India?",
+        "respuestas": [
+          { "texto": "Nueva Delhi" },
+          { "texto": "Monrovia" },
+          { "texto": "Kuwait " },
+          { "texto": "Lilongüe" }
+        ],
+        "respuestaCorrecta": 0
       }
     ]
   }
